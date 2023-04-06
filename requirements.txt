@@ -10,3 +10,4 @@ pyjokes
 opencv-python
 openai
 urllib3
+psutil
