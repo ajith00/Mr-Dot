@@ -3,12 +3,11 @@ pandas
 pyttsx3
 DateTime
 SpeechRecognition
-wikipediaapi
-webbrowser
+Wikipedia-API
 requests
 pyautogui
 pyjokes
-cv2
+opencv-python
 openai
 re
 requests
