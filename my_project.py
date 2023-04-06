@@ -6,7 +6,7 @@ import speech_recognition as sr
 import wikipediaapi
 import webbrowser,requests
 import os
-import pyautogui
+#import pyautogui
 import psutil
 import pyjokes
 import cv2,time
