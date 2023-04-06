@@ -5,7 +5,7 @@ DateTime
 SpeechRecognition
 Wikipedia-API
 requests
-pyautogui
+PyAutoGUI
 pyjokes
 opencv-python
 openai
