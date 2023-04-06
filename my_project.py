@@ -9,7 +9,7 @@ import os
 #import pyautogui
 import psutil
 import pyjokes
-import cv2,time
+#import cv2,time
 import streamlit as st
 import openai
 import re, requests, subprocess, urllib.parse, urllib.request
