@@ -1,0 +1,16 @@
+streamlit
+pandas
+pyttsx3
+datetime
+speech_recognition
+wikipediaapi
+webbrowser
+requests
+pyautogui
+pyjokes
+cv2
+openai
+re
+requests
+urllib.parse
+urllib.request
