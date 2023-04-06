@@ -1,5 +1,5 @@
-from cProfile import run
-from turtle import onclick
+#from cProfile import run
+#from turtle import onclick
 import pyttsx3
 import datetime
 import speech_recognition as sr
