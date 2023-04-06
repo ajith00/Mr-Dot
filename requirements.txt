@@ -9,7 +9,4 @@ pyautogui
 pyjokes
 opencv-python
 openai
-re
-requests
-urllib.parse
-urllib.request
+urllib3
