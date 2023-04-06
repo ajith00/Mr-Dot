@@ -2,7 +2,6 @@ streamlit
 pandas
 pyttsx3
 datetime
-speech_recognition
 wikipediaapi
 webbrowser
 requests
